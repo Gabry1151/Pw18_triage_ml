@@ -1,0 +1,41 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug train_models",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/train_models.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "args": []
+    },
+    {
+      "name": "Debug batch_predict",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/batch_predict.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "args": [
+        "--input", "data/tickets_synth.csv",
+        "--output", "data/predictions.csv",
+        "--models_dir", "models"
+      ]
+    },
+   {
+      "name": "Debug Streamlit dashboard",
+      "type": "python",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "dashboard.py"],
+      "cwd": "${workspaceFolder}",
+      "justMyCode": false
+    }
+  ]
+}

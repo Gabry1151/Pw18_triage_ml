@@ -1,0 +1,2 @@
+Category — accuracy: 1.000, F1 macro: 1.000
+Priority — accuracy: 0.738, F1 macro: 0.412

@@ -1,0 +1,401 @@
+id,title,body,category,priority
+1,Sconto su ordine ricorrente,Sconto su ordine ricorrente. consegna preventivo proposta chiarimento. Richiedo cortese riscontro.,Commerciale,bassa
+2,Sconto su ordine ricorrente,Sconto su ordine ricorrente. offerta ordine assistenza commerciale bloccante. In allegato screenshot dell'errore.,Commerciale,alta
+3,Richiesta demo piattaforma,Richiesta demo piattaforma. sconto assistenza commerciale offerta. Il problema si presenta su più utenti.,Commerciale,media
+4,Sconto su ordine ricorrente,Sconto su ordine ricorrente. offerta contratto proposta. In allegato screenshot dell'errore.,Commerciale,media
+5,Impossibile accedere al server,Impossibile accedere al server. errore login timeout. Serve una risposta entro oggi.,Tecnico,media
+6,Crash applicazione su avvio,Crash applicazione su avvio. bloccante server crash non funziona. Il problema si presenta su più utenti.,Tecnico,alta
+7,Problema pagamento fattura,Problema pagamento fattura. fattura doppio addebito estratto conto. Serve una risposta entro oggi.,Amministrazione,media
+8,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. ordine offerta proposta bloccante. Il problema si presenta su più utenti.,Commerciale,alta
+9,Sconto su ordine ricorrente,Sconto su ordine ricorrente. disponibilità ordine assistenza commerciale. Serve una risposta entro oggi.,Commerciale,media
+10,Problema pagamento fattura,Problema pagamento fattura. nota di credito IVA preventivo. Serve una risposta entro oggi.,Amministrazione,media
+11,API in timeout,API in timeout. bloccante login rete. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+12,Errore importo preventivo,Errore importo preventivo. pagamento estratto conto IVA. Richiedo cortese riscontro.,Amministrazione,media
+13,Problema pagamento fattura,Problema pagamento fattura. pagamento bonifico IVA. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+14,Crash applicazione su avvio,Crash applicazione su avvio. sistema rete login. Il problema si presenta su più utenti.,Tecnico,media
+15,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. demo preventivo offerta. Abbiamo già aperto un ticket in passato.,Commerciale,media
+16,Richiesta offerta personalizzata,Richiesta offerta personalizzata. proposta contratto ordine informazione. Serve una risposta entro oggi.,Commerciale,bassa
+17,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. proposta listino offerta urgente. In allegato screenshot dell'errore.,Commerciale,alta
+18,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. ordine fattura nota di credito. Serve una risposta entro oggi.,Amministrazione,media
+19,Richiesta nota di credito,Richiesta nota di credito. nota di credito estratto conto fattura. Potete verificare?,Amministrazione,media
+20,Richiesta demo piattaforma,Richiesta demo piattaforma. proposta demo sconto. Il problema si presenta su più utenti.,Commerciale,media
+21,Richiesta demo piattaforma,Richiesta demo piattaforma. offerta demo ordine fermi. Potete verificare?,Commerciale,alta
+22,Bug su form di registrazione,Bug su form di registrazione. server installazione sistema fermi. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+23,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. sconto demo disponibilità critico. Serve una risposta entro oggi.,Commerciale,alta
+24,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. offerta sconto ordine. Se necessario possiamo fare una call.,Commerciale,media
+25,Problema pagamento fattura,Problema pagamento fattura. fattura rimborso ordine. Serve una risposta entro oggi.,Amministrazione,media
+26,Domande su contratto,Domande su contratto. proposta offerta assistenza commerciale urgente. Potete verificare?,Commerciale,alta
+27,Domande su contratto,Domande su contratto. proposta offerta listino. Abbiamo già aperto un ticket in passato.,Commerciale,media
+28,Doppio addebito su carta,Doppio addebito su carta. IVA pagamento scadenza domanda. Se necessario possiamo fare una call.,Amministrazione,bassa
+29,Bug su form di registrazione,Bug su form di registrazione. installazione ticket timeout. Serve una risposta entro oggi.,Tecnico,media
+30,Doppio addebito su carta,Doppio addebito su carta. IVA rimborso fattura bloccante. Richiedo cortese riscontro.,Amministrazione,alta
+31,Sconto su ordine ricorrente,Sconto su ordine ricorrente. proposta preventivo sconto. Abbiamo già aperto un ticket in passato.,Commerciale,media
+32,Domande su contratto,Domande su contratto. demo ordine consegna. Se necessario possiamo fare una call.,Commerciale,media
+33,Doppio addebito su carta,Doppio addebito su carta. pagamento bonifico estratto conto. Serve una risposta entro oggi.,Amministrazione,media
+34,API in timeout,API in timeout. errore sistema login non funziona. In allegato screenshot dell'errore.,Tecnico,alta
+35,Bug su form di registrazione,Bug su form di registrazione. sistema errore API fermi. Richiedo cortese riscontro.,Tecnico,alta
+36,Impossibile accedere al server,Impossibile accedere al server. bug errore ticket. Il problema si presenta su più utenti.,Tecnico,media
+37,Richiesta nota di credito,Richiesta nota di credito. pagamento preventivo scadenza. In allegato screenshot dell'errore.,Amministrazione,media
+38,Domande su contratto,Domande su contratto. sconto contratto preventivo. Abbiamo già aperto un ticket in passato.,Commerciale,media
+39,API in timeout,API in timeout. bloccante bug sistema. Il problema si presenta su più utenti.,Tecnico,alta
+40,API in timeout,API in timeout. errore login bug. Serve una risposta entro oggi.,Tecnico,media
+41,Errore login dopo aggiornamento,Errore login dopo aggiornamento. bug sistema aggiornamento. Richiedo cortese riscontro.,Tecnico,media
+42,Richiesta demo piattaforma,Richiesta demo piattaforma. listino disponibilità preventivo richiesta dettagli. Se necessario possiamo fare una call.,Commerciale,bassa
+43,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. offerta contratto demo. In allegato screenshot dell'errore.,Commerciale,media
+44,Errore login dopo aggiornamento,Errore login dopo aggiornamento. bug aggiornamento sistema urgente. Il problema si presenta su più utenti.,Tecnico,alta
+45,Richiesta demo piattaforma,Richiesta demo piattaforma. listino contratto preventivo. Richiedo cortese riscontro.,Commerciale,media
+46,Domande su contratto,Domande su contratto. disponibilità sconto listino. Serve una risposta entro oggi.,Commerciale,media
+47,Domande su contratto,Domande su contratto. assistenza commerciale ordine proposta. Serve una risposta entro oggi.,Commerciale,media
+48,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. offerta contratto ordine. In allegato screenshot dell'errore.,Commerciale,media
+49,Richiesta offerta personalizzata,Richiesta offerta personalizzata. consegna listino contratto. Il problema si presenta su più utenti.,Commerciale,media
+50,Domande su contratto,Domande su contratto. disponibilità ordine listino informazione. Serve una risposta entro oggi.,Commerciale,bassa
+51,Problema pagamento fattura,Problema pagamento fattura. estratto conto ordine rimborso. Richiedo cortese riscontro.,Amministrazione,media
+52,API in timeout,API in timeout. API aggiornamento installazione. Serve una risposta entro oggi.,Tecnico,media
+53,Bug su form di registrazione,Bug su form di registrazione. installazione aggiornamento rete. Serve una risposta entro oggi.,Tecnico,media
+54,Problema pagamento fattura,Problema pagamento fattura. nota di credito IVA fattura. Il problema si presenta su più utenti.,Amministrazione,media
+55,Doppio addebito su carta,Doppio addebito su carta. rimborso IVA nota di credito. Il problema si presenta su più utenti.,Amministrazione,media
+56,Problema pagamento fattura,Problema pagamento fattura. fattura rimborso estratto conto informazione. In allegato screenshot dell'errore.,Amministrazione,bassa
+57,Domande su contratto,Domande su contratto. proposta preventivo contratto. Richiedo cortese riscontro.,Commerciale,media
+58,Errore importo preventivo,Errore importo preventivo. preventivo IVA estratto conto. Serve una risposta entro oggi.,Amministrazione,media
+59,Richiesta demo piattaforma,Richiesta demo piattaforma. sconto assistenza commerciale preventivo bloccante. Se necessario possiamo fare una call.,Commerciale,alta
+60,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. preventivo nota di credito scadenza. Se necessario possiamo fare una call.,Amministrazione,media
+61,Errore login dopo aggiornamento,Errore login dopo aggiornamento. login bloccante aggiornamento informazione. Richiedo cortese riscontro.,Tecnico,alta
+62,Crash applicazione su avvio,Crash applicazione su avvio. bloccante aggiornamento rete. Richiedo cortese riscontro.,Tecnico,alta
+63,Richiesta nota di credito,Richiesta nota di credito. fattura bonifico scadenza. Potete verificare?,Amministrazione,media
+64,Errore importo preventivo,Errore importo preventivo. pagamento scadenza nota di credito. Serve una risposta entro oggi.,Amministrazione,media
+65,Richiesta offerta personalizzata,Richiesta offerta personalizzata. ordine assistenza commerciale sconto. Potete verificare?,Commerciale,media
+66,Sconto su ordine ricorrente,Sconto su ordine ricorrente. listino demo ordine. Se necessario possiamo fare una call.,Commerciale,media
+67,Doppio addebito su carta,Doppio addebito su carta. IVA preventivo fattura domanda. Richiedo cortese riscontro.,Amministrazione,bassa
+68,Domande su contratto,Domande su contratto. ordine demo contratto urgente. Serve una risposta entro oggi.,Commerciale,alta
+69,Impossibile accedere al server,Impossibile accedere al server. sistema timeout installazione. Se necessario possiamo fare una call.,Tecnico,media
+70,Sconto su ordine ricorrente,Sconto su ordine ricorrente. sconto ordine contratto. Il problema si presenta su più utenti.,Commerciale,media
+71,Sconto su ordine ricorrente,Sconto su ordine ricorrente. ordine proposta listino. Il problema si presenta su più utenti.,Commerciale,media
+72,Domande su contratto,Domande su contratto. assistenza commerciale offerta disponibilità. Abbiamo già aperto un ticket in passato.,Commerciale,media
+73,Doppio addebito su carta,Doppio addebito su carta. estratto conto doppio addebito fattura. In allegato screenshot dell'errore.,Amministrazione,media
+74,Doppio addebito su carta,Doppio addebito su carta. IVA bonifico ordine. Serve una risposta entro oggi.,Amministrazione,media
+75,Sconto su ordine ricorrente,Sconto su ordine ricorrente. listino disponibilità consegna richiesta dettagli. Il problema si presenta su più utenti.,Commerciale,bassa
+76,Impossibile accedere al server,Impossibile accedere al server. bug timeout rete domanda. Se necessario possiamo fare una call.,Tecnico,bassa
+77,Errore importo preventivo,Errore importo preventivo. rimborso ordine bonifico critico. Richiedo cortese riscontro.,Amministrazione,alta
+78,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. pagamento bonifico IVA. Serve una risposta entro oggi.,Amministrazione,media
+79,Richiesta nota di credito,Richiesta nota di credito. IVA bonifico estratto conto. Il problema si presenta su più utenti.,Amministrazione,media
+80,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. scadenza nota di credito ordine. In allegato screenshot dell'errore.,Amministrazione,media
+81,Errore login dopo aggiornamento,Errore login dopo aggiornamento. rete errore bug. Il problema si presenta su più utenti.,Tecnico,media
+82,Errore importo preventivo,Errore importo preventivo. IVA fattura scadenza. Potete verificare?,Amministrazione,media
+83,Crash applicazione su avvio,Crash applicazione su avvio. rete login server fermi. Serve una risposta entro oggi.,Tecnico,alta
+84,Richiesta demo piattaforma,Richiesta demo piattaforma. assistenza commerciale demo contratto. Richiedo cortese riscontro.,Commerciale,media
+85,Errore importo preventivo,Errore importo preventivo. nota di credito fattura bonifico. Potete verificare?,Amministrazione,media
+86,Sconto su ordine ricorrente,Sconto su ordine ricorrente. preventivo sconto ordine. Serve una risposta entro oggi.,Commerciale,media
+87,Richiesta nota di credito,Richiesta nota di credito. ordine rimborso scadenza. Richiedo cortese riscontro.,Amministrazione,media
+88,Errore login dopo aggiornamento,Errore login dopo aggiornamento. sistema login bloccante informazione. Potete verificare?,Tecnico,alta
+89,Domande su contratto,Domande su contratto. consegna ordine listino. Serve una risposta entro oggi.,Commerciale,media
+90,Richiesta offerta personalizzata,Richiesta offerta personalizzata. disponibilità contratto preventivo. Il problema si presenta su più utenti.,Commerciale,media
+91,Richiesta offerta personalizzata,Richiesta offerta personalizzata. offerta listino demo. Serve una risposta entro oggi.,Commerciale,media
+92,Richiesta offerta personalizzata,Richiesta offerta personalizzata. sconto demo contratto. In allegato screenshot dell'errore.,Commerciale,media
+93,Doppio addebito su carta,Doppio addebito su carta. bonifico pagamento rimborso. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+94,Domande su contratto,Domande su contratto. preventivo contratto demo fermi. Potete verificare?,Commerciale,alta
+95,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. disponibilità sconto listino impossibile. Se necessario possiamo fare una call.,Commerciale,alta
+96,Bug su form di registrazione,Bug su form di registrazione. timeout rete database urgente. Il problema si presenta su più utenti.,Tecnico,alta
+97,Problema pagamento fattura,Problema pagamento fattura. ordine nota di credito estratto conto. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+98,Crash applicazione su avvio,Crash applicazione su avvio. sistema installazione rete. Abbiamo già aperto un ticket in passato.,Tecnico,media
+99,Impossibile accedere al server,Impossibile accedere al server. aggiornamento bloccante installazione. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+100,Richiesta demo piattaforma,Richiesta demo piattaforma. assistenza commerciale proposta offerta informazione. Se necessario possiamo fare una call.,Commerciale,bassa
+101,Crash applicazione su avvio,Crash applicazione su avvio. aggiornamento ticket bloccante. Serve una risposta entro oggi.,Tecnico,alta
+102,Richiesta offerta personalizzata,Richiesta offerta personalizzata. ordine offerta demo. Se necessario possiamo fare una call.,Commerciale,media
+103,Bug su form di registrazione,Bug su form di registrazione. rete errore bug. In allegato screenshot dell'errore.,Tecnico,media
+104,Problema pagamento fattura,Problema pagamento fattura. bonifico ordine scadenza. Richiedo cortese riscontro.,Amministrazione,media
+105,Doppio addebito su carta,Doppio addebito su carta. fattura bonifico ordine. Potete verificare?,Amministrazione,media
+106,Bug su form di registrazione,Bug su form di registrazione. bloccante bug login. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+107,Impossibile accedere al server,Impossibile accedere al server. timeout sistema server. Se necessario possiamo fare una call.,Tecnico,media
+108,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. contratto listino offerta. Il problema si presenta su più utenti.,Commerciale,media
+109,Doppio addebito su carta,Doppio addebito su carta. estratto conto ordine preventivo domanda. In allegato screenshot dell'errore.,Amministrazione,bassa
+110,Crash applicazione su avvio,Crash applicazione su avvio. timeout rete login. Serve una risposta entro oggi.,Tecnico,media
+111,Richiesta offerta personalizzata,Richiesta offerta personalizzata. listino disponibilità offerta bloccante. Potete verificare?,Commerciale,alta
+112,Problema pagamento fattura,Problema pagamento fattura. IVA scadenza preventivo. Se necessario possiamo fare una call.,Amministrazione,media
+113,API in timeout,API in timeout. sistema timeout server. Il problema si presenta su più utenti.,Tecnico,media
+114,Domande su contratto,Domande su contratto. sconto disponibilità contratto. In allegato screenshot dell'errore.,Commerciale,media
+115,Richiesta demo piattaforma,Richiesta demo piattaforma. preventivo contratto disponibilità bloccante. Il problema si presenta su più utenti.,Commerciale,alta
+116,Doppio addebito su carta,Doppio addebito su carta. IVA pagamento estratto conto informazione. Se necessario possiamo fare una call.,Amministrazione,bassa
+117,Problema pagamento fattura,Problema pagamento fattura. fattura IVA doppio addebito. Richiedo cortese riscontro.,Amministrazione,media
+118,Doppio addebito su carta,Doppio addebito su carta. pagamento rimborso fattura. Serve una risposta entro oggi.,Amministrazione,media
+119,Richiesta nota di credito,Richiesta nota di credito. nota di credito pagamento ordine. Serve una risposta entro oggi.,Amministrazione,media
+120,Doppio addebito su carta,Doppio addebito su carta. estratto conto IVA pagamento. Richiedo cortese riscontro.,Amministrazione,media
+121,Richiesta offerta personalizzata,Richiesta offerta personalizzata. listino demo offerta. Il problema si presenta su più utenti.,Commerciale,media
+122,Domande su contratto,Domande su contratto. contratto sconto proposta domanda. Se necessario possiamo fare una call.,Commerciale,bassa
+123,Problema pagamento fattura,Problema pagamento fattura. preventivo estratto conto bonifico domanda. Il problema si presenta su più utenti.,Amministrazione,bassa
+124,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. preventivo scadenza ordine. In allegato screenshot dell'errore.,Amministrazione,media
+125,Errore importo preventivo,Errore importo preventivo. ordine IVA preventivo urgente. Richiedo cortese riscontro.,Amministrazione,alta
+126,API in timeout,API in timeout. bloccante aggiornamento installazione. Il problema si presenta su più utenti.,Tecnico,alta
+127,API in timeout,API in timeout. aggiornamento server login. Se necessario possiamo fare una call.,Tecnico,media
+128,API in timeout,API in timeout. API bloccante database. Se necessario possiamo fare una call.,Tecnico,alta
+129,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. proposta contratto ordine. Serve una risposta entro oggi.,Commerciale,media
+130,Richiesta offerta personalizzata,Richiesta offerta personalizzata. demo consegna disponibilità. Abbiamo già aperto un ticket in passato.,Commerciale,media
+131,Richiesta offerta personalizzata,Richiesta offerta personalizzata. ordine sconto preventivo. Se necessario possiamo fare una call.,Commerciale,media
+132,Richiesta nota di credito,Richiesta nota di credito. preventivo nota di credito rimborso. In allegato screenshot dell'errore.,Amministrazione,media
+133,Impossibile accedere al server,Impossibile accedere al server. database bloccante server. Richiedo cortese riscontro.,Tecnico,alta
+134,Richiesta demo piattaforma,Richiesta demo piattaforma. assistenza commerciale preventivo demo domanda. Potete verificare?,Commerciale,bassa
+135,Crash applicazione su avvio,Crash applicazione su avvio. ticket server bloccante. Serve una risposta entro oggi.,Tecnico,alta
+136,Sconto su ordine ricorrente,Sconto su ordine ricorrente. listino contratto sconto. Il problema si presenta su più utenti.,Commerciale,media
+137,Errore login dopo aggiornamento,Errore login dopo aggiornamento. server API database. Serve una risposta entro oggi.,Tecnico,media
+138,Sconto su ordine ricorrente,Sconto su ordine ricorrente. listino offerta demo. Il problema si presenta su più utenti.,Commerciale,media
+139,Sconto su ordine ricorrente,Sconto su ordine ricorrente. sconto demo listino non funziona. Richiedo cortese riscontro.,Commerciale,alta
+140,Impossibile accedere al server,Impossibile accedere al server. installazione database errore. Potete verificare?,Tecnico,media
+141,Richiesta demo piattaforma,Richiesta demo piattaforma. consegna proposta offerta bloccante. Serve una risposta entro oggi.,Commerciale,alta
+142,Domande su contratto,Domande su contratto. assistenza commerciale offerta consegna bloccante. Se necessario possiamo fare una call.,Commerciale,alta
+143,Doppio addebito su carta,Doppio addebito su carta. rimborso nota di credito estratto conto. Il problema si presenta su più utenti.,Amministrazione,media
+144,Problema pagamento fattura,Problema pagamento fattura. rimborso fattura bonifico fermi. Serve una risposta entro oggi.,Amministrazione,alta
+145,Impossibile accedere al server,Impossibile accedere al server. sistema bug database richiesta dettagli. Serve una risposta entro oggi.,Tecnico,bassa
+146,Errore login dopo aggiornamento,Errore login dopo aggiornamento. rete installazione bug. Il problema si presenta su più utenti.,Tecnico,media
+147,Doppio addebito su carta,Doppio addebito su carta. rimborso IVA scadenza. Serve una risposta entro oggi.,Amministrazione,media
+148,Errore login dopo aggiornamento,Errore login dopo aggiornamento. bug API crash. Se necessario possiamo fare una call.,Tecnico,media
+149,Richiesta nota di credito,Richiesta nota di credito. IVA nota di credito bonifico critico. Richiedo cortese riscontro.,Amministrazione,alta
+150,Crash applicazione su avvio,Crash applicazione su avvio. errore server database. Se necessario possiamo fare una call.,Tecnico,media
+151,API in timeout,API in timeout. sistema login aggiornamento. Serve una risposta entro oggi.,Tecnico,media
+152,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. ordine preventivo proposta. Richiedo cortese riscontro.,Commerciale,media
+153,Richiesta offerta personalizzata,Richiesta offerta personalizzata. disponibilità assistenza commerciale proposta. Il problema si presenta su più utenti.,Commerciale,media
+154,Richiesta offerta personalizzata,Richiesta offerta personalizzata. assistenza commerciale demo sconto. In allegato screenshot dell'errore.,Commerciale,media
+155,Errore importo preventivo,Errore importo preventivo. preventivo fattura bonifico. Potete verificare?,Amministrazione,media
+156,Impossibile accedere al server,Impossibile accedere al server. rete bug bloccante. In allegato screenshot dell'errore.,Tecnico,alta
+157,Sconto su ordine ricorrente,Sconto su ordine ricorrente. offerta preventivo proposta. Se necessario possiamo fare una call.,Commerciale,media
+158,Errore importo preventivo,Errore importo preventivo. pagamento estratto conto ordine chiarimento. Richiedo cortese riscontro.,Amministrazione,bassa
+159,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. doppio addebito scadenza rimborso urgente. Il problema si presenta su più utenti.,Amministrazione,alta
+160,API in timeout,API in timeout. server login bloccante richiesta dettagli. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+161,Crash applicazione su avvio,Crash applicazione su avvio. installazione database aggiornamento. Abbiamo già aperto un ticket in passato.,Tecnico,media
+162,Crash applicazione su avvio,Crash applicazione su avvio. errore sistema crash. Potete verificare?,Tecnico,media
+163,Problema pagamento fattura,Problema pagamento fattura. rimborso scadenza ordine. Richiedo cortese riscontro.,Amministrazione,media
+164,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. bonifico scadenza nota di credito bloccante. Serve una risposta entro oggi.,Amministrazione,alta
+165,Sconto su ordine ricorrente,Sconto su ordine ricorrente. listino ordine sconto. Abbiamo già aperto un ticket in passato.,Commerciale,media
+166,Richiesta offerta personalizzata,Richiesta offerta personalizzata. disponibilità contratto assistenza commerciale impossibile. Richiedo cortese riscontro.,Commerciale,alta
+167,Richiesta demo piattaforma,Richiesta demo piattaforma. demo proposta contratto. Se necessario possiamo fare una call.,Commerciale,media
+168,Domande su contratto,Domande su contratto. sconto contratto listino. Il problema si presenta su più utenti.,Commerciale,media
+169,Errore importo preventivo,Errore importo preventivo. nota di credito IVA preventivo critico. Abbiamo già aperto un ticket in passato.,Amministrazione,alta
+170,Richiesta demo piattaforma,Richiesta demo piattaforma. proposta contratto disponibilità. Il problema si presenta su più utenti.,Commerciale,media
+171,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. assistenza commerciale offerta ordine. Abbiamo già aperto un ticket in passato.,Commerciale,media
+172,Errore login dopo aggiornamento,Errore login dopo aggiornamento. API login installazione. In allegato screenshot dell'errore.,Tecnico,media
+173,Richiesta nota di credito,Richiesta nota di credito. ordine rimborso scadenza. In allegato screenshot dell'errore.,Amministrazione,media
+174,Doppio addebito su carta,Doppio addebito su carta. IVA ordine preventivo urgente. Se necessario possiamo fare una call.,Amministrazione,alta
+175,Impossibile accedere al server,Impossibile accedere al server. login database bug. Serve una risposta entro oggi.,Tecnico,media
+176,Problema pagamento fattura,Problema pagamento fattura. estratto conto doppio addebito fattura. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+177,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. doppio addebito nota di credito scadenza. Il problema si presenta su più utenti.,Amministrazione,media
+178,Domande su contratto,Domande su contratto. assistenza commerciale contratto preventivo bloccante. Il problema si presenta su più utenti.,Commerciale,alta
+179,Sconto su ordine ricorrente,Sconto su ordine ricorrente. consegna listino disponibilità richiesta dettagli. Serve una risposta entro oggi.,Commerciale,bassa
+180,Domande su contratto,Domande su contratto. consegna ordine sconto. Abbiamo già aperto un ticket in passato.,Commerciale,media
+181,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. fattura bonifico rimborso impossibile. Il problema si presenta su più utenti.,Amministrazione,alta
+182,Impossibile accedere al server,Impossibile accedere al server. timeout rete bloccante impossibile. Il problema si presenta su più utenti.,Tecnico,alta
+183,Crash applicazione su avvio,Crash applicazione su avvio. ticket errore installazione bloccante. Serve una risposta entro oggi.,Tecnico,alta
+184,Richiesta offerta personalizzata,Richiesta offerta personalizzata. proposta assistenza commerciale demo. Abbiamo già aperto un ticket in passato.,Commerciale,media
+185,Errore importo preventivo,Errore importo preventivo. nota di credito preventivo ordine. Serve una risposta entro oggi.,Amministrazione,media
+186,Richiesta nota di credito,Richiesta nota di credito. IVA pagamento preventivo. Potete verificare?,Amministrazione,media
+187,Errore importo preventivo,Errore importo preventivo. fattura pagamento preventivo richiesta dettagli. Serve una risposta entro oggi.,Amministrazione,bassa
+188,Richiesta nota di credito,Richiesta nota di credito. preventivo bonifico doppio addebito. Potete verificare?,Amministrazione,media
+189,Richiesta demo piattaforma,Richiesta demo piattaforma. proposta disponibilità ordine. Serve una risposta entro oggi.,Commerciale,media
+190,Richiesta nota di credito,Richiesta nota di credito. preventivo IVA bonifico. In allegato screenshot dell'errore.,Amministrazione,media
+191,Richiesta offerta personalizzata,Richiesta offerta personalizzata. sconto contratto offerta domanda. Se necessario possiamo fare una call.,Commerciale,bassa
+192,Bug su form di registrazione,Bug su form di registrazione. installazione aggiornamento server. Abbiamo già aperto un ticket in passato.,Tecnico,media
+193,Domande su contratto,Domande su contratto. assistenza commerciale disponibilità consegna. Serve una risposta entro oggi.,Commerciale,media
+194,Errore importo preventivo,Errore importo preventivo. ordine pagamento bonifico. Il problema si presenta su più utenti.,Amministrazione,media
+195,Errore login dopo aggiornamento,Errore login dopo aggiornamento. aggiornamento database bloccante informazione. Il problema si presenta su più utenti.,Tecnico,alta
+196,Richiesta demo piattaforma,Richiesta demo piattaforma. disponibilità assistenza commerciale demo. In allegato screenshot dell'errore.,Commerciale,media
+197,Crash applicazione su avvio,Crash applicazione su avvio. server rete bloccante chiarimento. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+198,Richiesta nota di credito,Richiesta nota di credito. scadenza pagamento doppio addebito informazione. Richiedo cortese riscontro.,Amministrazione,bassa
+199,Impossibile accedere al server,Impossibile accedere al server. aggiornamento sistema API impossibile. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+200,Richiesta offerta personalizzata,Richiesta offerta personalizzata. offerta ordine demo. Serve una risposta entro oggi.,Commerciale,media
+201,API in timeout,API in timeout. errore sistema ticket. Se necessario possiamo fare una call.,Tecnico,media
+202,Impossibile accedere al server,Impossibile accedere al server. bloccante login aggiornamento. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+203,Errore login dopo aggiornamento,Errore login dopo aggiornamento. aggiornamento timeout crash fermi. Richiedo cortese riscontro.,Tecnico,alta
+204,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. estratto conto fattura IVA domanda. Se necessario possiamo fare una call.,Amministrazione,bassa
+205,Richiesta offerta personalizzata,Richiesta offerta personalizzata. listino sconto proposta bloccante. Richiedo cortese riscontro.,Commerciale,alta
+206,API in timeout,API in timeout. bug installazione server. Potete verificare?,Tecnico,media
+207,Errore importo preventivo,Errore importo preventivo. preventivo doppio addebito estratto conto informazione. Se necessario possiamo fare una call.,Amministrazione,bassa
+208,API in timeout,API in timeout. database timeout bug. Richiedo cortese riscontro.,Tecnico,media
+209,Crash applicazione su avvio,Crash applicazione su avvio. bloccante API bug informazione. Il problema si presenta su più utenti.,Tecnico,alta
+210,Impossibile accedere al server,Impossibile accedere al server. sistema login database richiesta dettagli. Serve una risposta entro oggi.,Tecnico,bassa
+211,Sconto su ordine ricorrente,Sconto su ordine ricorrente. proposta listino assistenza commerciale. Richiedo cortese riscontro.,Commerciale,media
+212,Richiesta offerta personalizzata,Richiesta offerta personalizzata. sconto listino assistenza commerciale. Serve una risposta entro oggi.,Commerciale,media
+213,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. estratto conto fattura ordine. Richiedo cortese riscontro.,Amministrazione,media
+214,API in timeout,API in timeout. ticket errore bloccante. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+215,Richiesta offerta personalizzata,Richiesta offerta personalizzata. ordine offerta proposta. In allegato screenshot dell'errore.,Commerciale,media
+216,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. proposta consegna demo. In allegato screenshot dell'errore.,Commerciale,media
+217,Richiesta nota di credito,Richiesta nota di credito. preventivo bonifico doppio addebito. Potete verificare?,Amministrazione,media
+218,Bug su form di registrazione,Bug su form di registrazione. installazione bug ticket. Potete verificare?,Tecnico,media
+219,Domande su contratto,Domande su contratto. ordine offerta listino. Abbiamo già aperto un ticket in passato.,Commerciale,media
+220,Errore login dopo aggiornamento,Errore login dopo aggiornamento. crash database API. In allegato screenshot dell'errore.,Tecnico,media
+221,Sconto su ordine ricorrente,Sconto su ordine ricorrente. assistenza commerciale listino disponibilità. Il problema si presenta su più utenti.,Commerciale,media
+222,Sconto su ordine ricorrente,Sconto su ordine ricorrente. proposta listino preventivo. Il problema si presenta su più utenti.,Commerciale,media
+223,Problema pagamento fattura,Problema pagamento fattura. IVA scadenza preventivo. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+224,API in timeout,API in timeout. installazione sistema timeout impossibile. Potete verificare?,Tecnico,alta
+225,API in timeout,API in timeout. errore sistema timeout informazione. Il problema si presenta su più utenti.,Tecnico,bassa
+226,Errore importo preventivo,Errore importo preventivo. rimborso fattura nota di credito chiarimento. Potete verificare?,Amministrazione,bassa
+227,API in timeout,API in timeout. rete bloccante API. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+228,Richiesta demo piattaforma,Richiesta demo piattaforma. consegna proposta demo. Il problema si presenta su più utenti.,Commerciale,media
+229,Problema pagamento fattura,Problema pagamento fattura. estratto conto preventivo pagamento richiesta dettagli. Il problema si presenta su più utenti.,Amministrazione,bassa
+230,Bug su form di registrazione,Bug su form di registrazione. login errore bloccante. Il problema si presenta su più utenti.,Tecnico,alta
+231,Doppio addebito su carta,Doppio addebito su carta. preventivo rimborso estratto conto. Richiedo cortese riscontro.,Amministrazione,media
+232,Domande su contratto,Domande su contratto. demo offerta consegna. Se necessario possiamo fare una call.,Commerciale,media
+233,Richiesta offerta personalizzata,Richiesta offerta personalizzata. contratto listino proposta. Richiedo cortese riscontro.,Commerciale,media
+234,Richiesta nota di credito,Richiesta nota di credito. rimborso doppio addebito pagamento. Serve una risposta entro oggi.,Amministrazione,media
+235,Sconto su ordine ricorrente,Sconto su ordine ricorrente. demo assistenza commerciale sconto richiesta dettagli. Se necessario possiamo fare una call.,Commerciale,bassa
+236,Richiesta nota di credito,Richiesta nota di credito. nota di credito scadenza doppio addebito. Potete verificare?,Amministrazione,media
+237,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. ordine rimborso pagamento urgente. In allegato screenshot dell'errore.,Amministrazione,alta
+238,Richiesta nota di credito,Richiesta nota di credito. estratto conto preventivo pagamento. In allegato screenshot dell'errore.,Amministrazione,media
+239,Crash applicazione su avvio,Crash applicazione su avvio. sistema crash bloccante. Potete verificare?,Tecnico,alta
+240,Richiesta nota di credito,Richiesta nota di credito. ordine bonifico rimborso. Serve una risposta entro oggi.,Amministrazione,media
+241,Errore importo preventivo,Errore importo preventivo. bonifico fattura nota di credito. Richiedo cortese riscontro.,Amministrazione,media
+242,Bug su form di registrazione,Bug su form di registrazione. API errore database. Il problema si presenta su più utenti.,Tecnico,media
+243,Domande su contratto,Domande su contratto. consegna assistenza commerciale sconto. Potete verificare?,Commerciale,media
+244,Sconto su ordine ricorrente,Sconto su ordine ricorrente. ordine listino disponibilità. Il problema si presenta su più utenti.,Commerciale,media
+245,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. sconto preventivo ordine. In allegato screenshot dell'errore.,Commerciale,media
+246,Richiesta offerta personalizzata,Richiesta offerta personalizzata. preventivo assistenza commerciale sconto. Richiedo cortese riscontro.,Commerciale,media
+247,Richiesta demo piattaforma,Richiesta demo piattaforma. preventivo contratto ordine. Abbiamo già aperto un ticket in passato.,Commerciale,media
+248,Richiesta nota di credito,Richiesta nota di credito. doppio addebito bonifico fattura. Potete verificare?,Amministrazione,media
+249,Problema pagamento fattura,Problema pagamento fattura. nota di credito fattura IVA informazione. Potete verificare?,Amministrazione,bassa
+250,Impossibile accedere al server,Impossibile accedere al server. errore sistema crash. Richiedo cortese riscontro.,Tecnico,media
+251,Crash applicazione su avvio,Crash applicazione su avvio. ticket login database. Il problema si presenta su più utenti.,Tecnico,media
+252,Sconto su ordine ricorrente,Sconto su ordine ricorrente. contratto disponibilità demo richiesta dettagli. Serve una risposta entro oggi.,Commerciale,bassa
+253,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. listino demo disponibilità urgente. In allegato screenshot dell'errore.,Commerciale,alta
+254,Richiesta offerta personalizzata,Richiesta offerta personalizzata. disponibilità ordine contratto. Se necessario possiamo fare una call.,Commerciale,media
+255,Sconto su ordine ricorrente,Sconto su ordine ricorrente. disponibilità listino sconto. In allegato screenshot dell'errore.,Commerciale,media
+256,Impossibile accedere al server,Impossibile accedere al server. installazione server aggiornamento. Abbiamo già aperto un ticket in passato.,Tecnico,media
+257,Crash applicazione su avvio,Crash applicazione su avvio. sistema aggiornamento API bloccante. Se necessario possiamo fare una call.,Tecnico,alta
+258,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. sconto listino consegna. Potete verificare?,Commerciale,media
+259,Richiesta demo piattaforma,Richiesta demo piattaforma. proposta consegna preventivo bloccante. Potete verificare?,Commerciale,alta
+260,Bug su form di registrazione,Bug su form di registrazione. ticket sistema installazione informazione. Potete verificare?,Tecnico,bassa
+261,Richiesta offerta personalizzata,Richiesta offerta personalizzata. sconto offerta demo. Il problema si presenta su più utenti.,Commerciale,media
+262,Errore login dopo aggiornamento,Errore login dopo aggiornamento. API ticket server. In allegato screenshot dell'errore.,Tecnico,media
+263,Impossibile accedere al server,Impossibile accedere al server. login aggiornamento timeout. Serve una risposta entro oggi.,Tecnico,media
+264,Bug su form di registrazione,Bug su form di registrazione. crash aggiornamento login fermi. Potete verificare?,Tecnico,alta
+265,Richiesta nota di credito,Richiesta nota di credito. bonifico preventivo rimborso urgente. Il problema si presenta su più utenti.,Amministrazione,alta
+266,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. disponibilità ordine listino. Se necessario possiamo fare una call.,Commerciale,media
+267,Richiesta demo piattaforma,Richiesta demo piattaforma. offerta demo contratto informazione. Richiedo cortese riscontro.,Commerciale,bassa
+268,Richiesta offerta personalizzata,Richiesta offerta personalizzata. assistenza commerciale disponibilità listino. Potete verificare?,Commerciale,media
+269,Domande su contratto,Domande su contratto. listino offerta ordine. Il problema si presenta su più utenti.,Commerciale,media
+270,Sconto su ordine ricorrente,Sconto su ordine ricorrente. consegna demo preventivo. Il problema si presenta su più utenti.,Commerciale,media
+271,Impossibile accedere al server,Impossibile accedere al server. aggiornamento timeout installazione. Il problema si presenta su più utenti.,Tecnico,media
+272,Domande su contratto,Domande su contratto. sconto offerta demo. Richiedo cortese riscontro.,Commerciale,media
+273,Domande su contratto,Domande su contratto. contratto preventivo disponibilità impossibile. Serve una risposta entro oggi.,Commerciale,alta
+274,Problema pagamento fattura,Problema pagamento fattura. rimborso preventivo bonifico informazione. Abbiamo già aperto un ticket in passato.,Amministrazione,bassa
+275,Doppio addebito su carta,Doppio addebito su carta. IVA bonifico rimborso. In allegato screenshot dell'errore.,Amministrazione,media
+276,Bug su form di registrazione,Bug su form di registrazione. timeout server API impossibile. Se necessario possiamo fare una call.,Tecnico,alta
+277,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. demo consegna listino urgente. Abbiamo già aperto un ticket in passato.,Commerciale,alta
+278,Impossibile accedere al server,Impossibile accedere al server. sistema timeout login. Richiedo cortese riscontro.,Tecnico,media
+279,Impossibile accedere al server,Impossibile accedere al server. bloccante sistema login critico. Richiedo cortese riscontro.,Tecnico,alta
+280,Richiesta nota di credito,Richiesta nota di credito. ordine estratto conto doppio addebito. Se necessario possiamo fare una call.,Amministrazione,media
+281,Impossibile accedere al server,Impossibile accedere al server. rete database ticket. Richiedo cortese riscontro.,Tecnico,media
+282,Bug su form di registrazione,Bug su form di registrazione. sistema bloccante ticket. Se necessario possiamo fare una call.,Tecnico,alta
+283,Errore importo preventivo,Errore importo preventivo. pagamento estratto conto ordine. Potete verificare?,Amministrazione,media
+284,Bug su form di registrazione,Bug su form di registrazione. ticket bug sistema. Il problema si presenta su più utenti.,Tecnico,media
+285,Doppio addebito su carta,Doppio addebito su carta. pagamento bonifico scadenza. Richiedo cortese riscontro.,Amministrazione,media
+286,Richiesta nota di credito,Richiesta nota di credito. doppio addebito scadenza ordine. Se necessario possiamo fare una call.,Amministrazione,media
+287,Errore login dopo aggiornamento,Errore login dopo aggiornamento. timeout installazione ticket. Potete verificare?,Tecnico,media
+288,Crash applicazione su avvio,Crash applicazione su avvio. aggiornamento database rete. Serve una risposta entro oggi.,Tecnico,media
+289,Problema pagamento fattura,Problema pagamento fattura. rimborso pagamento ordine. Potete verificare?,Amministrazione,media
+290,Problema pagamento fattura,Problema pagamento fattura. doppio addebito ordine scadenza. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+291,Problema pagamento fattura,Problema pagamento fattura. ordine preventivo pagamento. Serve una risposta entro oggi.,Amministrazione,media
+292,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. assistenza commerciale offerta disponibilità. Abbiamo già aperto un ticket in passato.,Commerciale,media
+293,Errore importo preventivo,Errore importo preventivo. preventivo rimborso nota di credito. Serve una risposta entro oggi.,Amministrazione,media
+294,Richiesta nota di credito,Richiesta nota di credito. scadenza nota di credito doppio addebito. Il problema si presenta su più utenti.,Amministrazione,media
+295,Crash applicazione su avvio,Crash applicazione su avvio. database timeout bug. Abbiamo già aperto un ticket in passato.,Tecnico,media
+296,Domande su contratto,Domande su contratto. proposta demo preventivo. Il problema si presenta su più utenti.,Commerciale,media
+297,Problema pagamento fattura,Problema pagamento fattura. IVA rimborso preventivo. Potete verificare?,Amministrazione,media
+298,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. listino assistenza commerciale proposta. Richiedo cortese riscontro.,Commerciale,media
+299,Bug su form di registrazione,Bug su form di registrazione. errore aggiornamento bloccante. In allegato screenshot dell'errore.,Tecnico,alta
+300,Doppio addebito su carta,Doppio addebito su carta. fattura scadenza rimborso. Se necessario possiamo fare una call.,Amministrazione,media
+301,Impossibile accedere al server,Impossibile accedere al server. bug installazione timeout. In allegato screenshot dell'errore.,Tecnico,media
+302,Richiesta offerta personalizzata,Richiesta offerta personalizzata. proposta ordine sconto. Richiedo cortese riscontro.,Commerciale,media
+303,Richiesta nota di credito,Richiesta nota di credito. pagamento bonifico fattura. Il problema si presenta su più utenti.,Amministrazione,media
+304,Richiesta offerta personalizzata,Richiesta offerta personalizzata. sconto demo preventivo chiarimento. Il problema si presenta su più utenti.,Commerciale,bassa
+305,Problema pagamento fattura,Problema pagamento fattura. nota di credito preventivo doppio addebito. Il problema si presenta su più utenti.,Amministrazione,media
+306,Errore importo preventivo,Errore importo preventivo. doppio addebito scadenza nota di credito bloccante. Richiedo cortese riscontro.,Amministrazione,alta
+307,Richiesta nota di credito,Richiesta nota di credito. estratto conto scadenza pagamento. Se necessario possiamo fare una call.,Amministrazione,media
+308,Errore importo preventivo,Errore importo preventivo. pagamento estratto conto doppio addebito fermi. Il problema si presenta su più utenti.,Amministrazione,alta
+309,Impossibile accedere al server,Impossibile accedere al server. rete bug crash critico. Il problema si presenta su più utenti.,Tecnico,alta
+310,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. ordine proposta preventivo. In allegato screenshot dell'errore.,Commerciale,media
+311,Impossibile accedere al server,Impossibile accedere al server. aggiornamento bloccante API. Serve una risposta entro oggi.,Tecnico,alta
+312,Doppio addebito su carta,Doppio addebito su carta. bonifico IVA scadenza. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+313,Doppio addebito su carta,Doppio addebito su carta. fattura preventivo nota di credito. Il problema si presenta su più utenti.,Amministrazione,media
+314,Crash applicazione su avvio,Crash applicazione su avvio. ticket bloccante API. Potete verificare?,Tecnico,alta
+315,Crash applicazione su avvio,Crash applicazione su avvio. ticket sistema errore. Se necessario possiamo fare una call.,Tecnico,media
+316,Richiesta nota di credito,Richiesta nota di credito. scadenza rimborso pagamento. In allegato screenshot dell'errore.,Amministrazione,media
+317,API in timeout,API in timeout. server timeout ticket. Serve una risposta entro oggi.,Tecnico,media
+318,Richiesta offerta personalizzata,Richiesta offerta personalizzata. ordine sconto proposta. Il problema si presenta su più utenti.,Commerciale,media
+319,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. ordine assistenza commerciale listino informazione. Richiedo cortese riscontro.,Commerciale,bassa
+320,Domande su contratto,Domande su contratto. disponibilità demo ordine. Il problema si presenta su più utenti.,Commerciale,media
+321,Crash applicazione su avvio,Crash applicazione su avvio. API aggiornamento installazione. Serve una risposta entro oggi.,Tecnico,media
+322,Doppio addebito su carta,Doppio addebito su carta. nota di credito rimborso bonifico chiarimento. Serve una risposta entro oggi.,Amministrazione,bassa
+323,Richiesta demo piattaforma,Richiesta demo piattaforma. listino consegna demo. Se necessario possiamo fare una call.,Commerciale,media
+324,Doppio addebito su carta,Doppio addebito su carta. ordine fattura doppio addebito. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+325,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. consegna contratto listino. Se necessario possiamo fare una call.,Commerciale,media
+326,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. doppio addebito rimborso scadenza. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+327,Sconto su ordine ricorrente,Sconto su ordine ricorrente. proposta contratto listino. Il problema si presenta su più utenti.,Commerciale,media
+328,Richiesta demo piattaforma,Richiesta demo piattaforma. listino demo proposta. In allegato screenshot dell'errore.,Commerciale,media
+329,Richiesta demo piattaforma,Richiesta demo piattaforma. preventivo ordine consegna fermi. Il problema si presenta su più utenti.,Commerciale,alta
+330,Domande su contratto,Domande su contratto. disponibilità proposta offerta chiarimento. Se necessario possiamo fare una call.,Commerciale,bassa
+331,Richiesta offerta personalizzata,Richiesta offerta personalizzata. proposta contratto disponibilità. Abbiamo già aperto un ticket in passato.,Commerciale,media
+332,Richiesta offerta personalizzata,Richiesta offerta personalizzata. preventivo demo proposta. Serve una risposta entro oggi.,Commerciale,media
+333,Sconto su ordine ricorrente,Sconto su ordine ricorrente. consegna offerta demo critico. Serve una risposta entro oggi.,Commerciale,alta
+334,Impossibile accedere al server,Impossibile accedere al server. bug ticket aggiornamento. Serve una risposta entro oggi.,Tecnico,media
+335,Errore importo preventivo,Errore importo preventivo. rimborso bonifico estratto conto bloccante. In allegato screenshot dell'errore.,Amministrazione,alta
+336,Richiesta nota di credito,Richiesta nota di credito. bonifico fattura preventivo. Potete verificare?,Amministrazione,media
+337,Domande su contratto,Domande su contratto. assistenza commerciale offerta demo chiarimento. Se necessario possiamo fare una call.,Commerciale,bassa
+338,Bug su form di registrazione,Bug su form di registrazione. timeout server sistema. Serve una risposta entro oggi.,Tecnico,media
+339,Errore importo preventivo,Errore importo preventivo. pagamento doppio addebito preventivo. Richiedo cortese riscontro.,Amministrazione,media
+340,Richiesta demo piattaforma,Richiesta demo piattaforma. proposta demo disponibilità. Serve una risposta entro oggi.,Commerciale,media
+341,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. demo consegna listino. Abbiamo già aperto un ticket in passato.,Commerciale,media
+342,Impossibile accedere al server,Impossibile accedere al server. rete API aggiornamento. In allegato screenshot dell'errore.,Tecnico,media
+343,Impossibile accedere al server,Impossibile accedere al server. bug database API. Abbiamo già aperto un ticket in passato.,Tecnico,media
+344,Problema pagamento fattura,Problema pagamento fattura. doppio addebito nota di credito estratto conto. Richiedo cortese riscontro.,Amministrazione,media
+345,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. fattura bonifico estratto conto. Serve una risposta entro oggi.,Amministrazione,media
+346,Richiesta offerta personalizzata,Richiesta offerta personalizzata. contratto sconto demo informazione. Potete verificare?,Commerciale,bassa
+347,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. scadenza preventivo fattura chiarimento. Il problema si presenta su più utenti.,Amministrazione,bassa
+348,Doppio addebito su carta,Doppio addebito su carta. IVA fattura bonifico. Potete verificare?,Amministrazione,media
+349,Crash applicazione su avvio,Crash applicazione su avvio. bug rete sistema. Il problema si presenta su più utenti.,Tecnico,media
+350,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. disponibilità offerta listino. In allegato screenshot dell'errore.,Commerciale,media
+351,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. consegna demo contratto non funziona. Potete verificare?,Commerciale,alta
+352,API in timeout,API in timeout. timeout API errore domanda. Se necessario possiamo fare una call.,Tecnico,bassa
+353,Bug su form di registrazione,Bug su form di registrazione. crash errore bloccante. Il problema si presenta su più utenti.,Tecnico,alta
+354,Errore login dopo aggiornamento,Errore login dopo aggiornamento. errore aggiornamento server informazione. Serve una risposta entro oggi.,Tecnico,bassa
+355,Richiesta offerta personalizzata,Richiesta offerta personalizzata. consegna disponibilità offerta urgente. Serve una risposta entro oggi.,Commerciale,alta
+356,Doppio addebito su carta,Doppio addebito su carta. estratto conto IVA ordine fermi. Se necessario possiamo fare una call.,Amministrazione,alta
+357,Impossibile accedere al server,Impossibile accedere al server. aggiornamento crash server. Richiedo cortese riscontro.,Tecnico,media
+358,Richiesta nota di credito,Richiesta nota di credito. estratto conto preventivo pagamento chiarimento. Se necessario possiamo fare una call.,Amministrazione,bassa
+359,Richiesta demo piattaforma,Richiesta demo piattaforma. consegna preventivo sconto. In allegato screenshot dell'errore.,Commerciale,media
+360,Richiesta offerta personalizzata,Richiesta offerta personalizzata. assistenza commerciale consegna preventivo. Se necessario possiamo fare una call.,Commerciale,media
+361,Errore importo preventivo,Errore importo preventivo. doppio addebito scadenza pagamento. Richiedo cortese riscontro.,Amministrazione,media
+362,Doppio addebito su carta,Doppio addebito su carta. pagamento doppio addebito preventivo. Richiedo cortese riscontro.,Amministrazione,media
+363,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. preventivo nota di credito rimborso. In allegato screenshot dell'errore.,Amministrazione,media
+364,Crash applicazione su avvio,Crash applicazione su avvio. ticket server installazione. Serve una risposta entro oggi.,Tecnico,media
+365,API in timeout,API in timeout. login bug aggiornamento informazione. Se necessario possiamo fare una call.,Tecnico,bassa
+366,Problema pagamento fattura,Problema pagamento fattura. preventivo scadenza ordine bloccante. Richiedo cortese riscontro.,Amministrazione,alta
+367,Problema pagamento fattura,Problema pagamento fattura. IVA doppio addebito nota di credito. Richiedo cortese riscontro.,Amministrazione,media
+368,Richiesta nota di credito,Richiesta nota di credito. IVA pagamento scadenza bloccante. Se necessario possiamo fare una call.,Amministrazione,alta
+369,Errore importo preventivo,Errore importo preventivo. doppio addebito rimborso preventivo. In allegato screenshot dell'errore.,Amministrazione,media
+370,Impossibile accedere al server,Impossibile accedere al server. installazione timeout errore. Serve una risposta entro oggi.,Tecnico,media
+371,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. preventivo nota di credito doppio addebito. Potete verificare?,Amministrazione,media
+372,Errore importo preventivo,Errore importo preventivo. ordine scadenza pagamento. Abbiamo già aperto un ticket in passato.,Amministrazione,media
+373,Domande su contratto,Domande su contratto. listino proposta sconto. Richiedo cortese riscontro.,Commerciale,media
+374,Disponibilità prodotto e tempi di consegna,Disponibilità prodotto e tempi di consegna. consegna disponibilità offerta. Richiedo cortese riscontro.,Commerciale,media
+375,Problema pagamento fattura,Problema pagamento fattura. fattura preventivo nota di credito. Richiedo cortese riscontro.,Amministrazione,media
+376,Errore importo preventivo,Errore importo preventivo. IVA doppio addebito pagamento. In allegato screenshot dell'errore.,Amministrazione,media
+377,Richiesta demo piattaforma,Richiesta demo piattaforma. assistenza commerciale disponibilità ordine. Abbiamo già aperto un ticket in passato.,Commerciale,media
+378,Crash applicazione su avvio,Crash applicazione su avvio. ticket rete crash. In allegato screenshot dell'errore.,Tecnico,media
+379,Problema pagamento fattura,Problema pagamento fattura. estratto conto doppio addebito ordine domanda. Richiedo cortese riscontro.,Amministrazione,bassa
+380,Crash applicazione su avvio,Crash applicazione su avvio. crash bug API critico. In allegato screenshot dell'errore.,Tecnico,alta
+381,Sconto su ordine ricorrente,Sconto su ordine ricorrente. proposta contratto preventivo. Se necessario possiamo fare una call.,Commerciale,media
+382,Crash applicazione su avvio,Crash applicazione su avvio. installazione database aggiornamento. Il problema si presenta su più utenti.,Tecnico,media
+383,Richiesta nota di credito,Richiesta nota di credito. preventivo nota di credito estratto conto. In allegato screenshot dell'errore.,Amministrazione,media
+384,Richiesta nota di credito,Richiesta nota di credito. scadenza preventivo rimborso. In allegato screenshot dell'errore.,Amministrazione,media
+385,Impossibile accedere al server,Impossibile accedere al server. API bug ticket. Abbiamo già aperto un ticket in passato.,Tecnico,media
+386,Richiesta offerta personalizzata,Richiesta offerta personalizzata. consegna demo contratto. Serve una risposta entro oggi.,Commerciale,media
+387,Sconto su ordine ricorrente,Sconto su ordine ricorrente. sconto ordine offerta. Se necessario possiamo fare una call.,Commerciale,media
+388,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. preventivo estratto conto bonifico. Serve una risposta entro oggi.,Amministrazione,media
+389,Richiesta nota di credito,Richiesta nota di credito. pagamento scadenza IVA. Il problema si presenta su più utenti.,Amministrazione,media
+390,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. doppio addebito rimborso bonifico impossibile. Abbiamo già aperto un ticket in passato.,Amministrazione,alta
+391,Richiesta nota di credito,Richiesta nota di credito. fattura scadenza pagamento. Potete verificare?,Amministrazione,media
+392,Errore login dopo aggiornamento,Errore login dopo aggiornamento. login rete bloccante. Abbiamo già aperto un ticket in passato.,Tecnico,alta
+393,Impossibile accedere al server,Impossibile accedere al server. database API errore. Il problema si presenta su più utenti.,Tecnico,media
+394,API in timeout,API in timeout. sistema ticket bloccante. Richiedo cortese riscontro.,Tecnico,alta
+395,Crash applicazione su avvio,Crash applicazione su avvio. installazione bug server informazione. Richiedo cortese riscontro.,Tecnico,bassa
+396,Richiesta nota di credito,Richiesta nota di credito. preventivo fattura rimborso. In allegato screenshot dell'errore.,Amministrazione,media
+397,Chiarimenti su IVA e scadenze,Chiarimenti su IVA e scadenze. ordine nota di credito estratto conto. Se necessario possiamo fare una call.,Amministrazione,media
+398,API in timeout,API in timeout. timeout bloccante login chiarimento. In allegato screenshot dell'errore.,Tecnico,alta
+399,Impossibile accedere al server,Impossibile accedere al server. rete login ticket richiesta dettagli. In allegato screenshot dell'errore.,Tecnico,bassa
+400,Impossibile accedere al server,Impossibile accedere al server. sistema server rete critico. Se necessario possiamo fare una call.,Tecnico,alta
